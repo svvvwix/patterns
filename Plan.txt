@@ -1,3 +1,5 @@
+link: https://www.cp.eng.chula.ac.th/~wiwat/SDD/DP.pdf
+
 1. General;
 2. Observer;
 3. Decorator;
